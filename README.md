@@ -8,7 +8,7 @@ Executa backup dos pacotes ear deployados na console do jboss domain mode.
 
 --Alterar os caminhos do home do jboss
 
-Script startJVM_jboss.sh</b>
+<b>Script startJVM_jboss.sh</b>
 
 --Realiza start da jvm do jboss modo domain, alterar os nomes do server group e user/pass
 
