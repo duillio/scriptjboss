@@ -25,6 +25,6 @@ Executa backup dos pacotes ear deployados na console do jboss domain mode.
 
 
 
-<b>Script Deploy</b>
+<b>Script deploy_jboss.sh</b>
 
 --Realiza Deploy dos EARs jboss modo domain, ajustar JBOSS_HOME,DEPLOY_ORIGEM e PATHPACOTE
