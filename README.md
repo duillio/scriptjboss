@@ -1,5 +1,8 @@
 <i><b>Scritps simples básico e funcional</i></b> 
 
+
+<i><b>Executado no jboss-eap-7.2.2 e Redhat 7</i></b> 
+
 <b>Script BKP.sh</b>
 
 Executa backup dos pacotes ear deployados na console do jboss domain mode.
