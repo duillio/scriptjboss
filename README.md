@@ -35,6 +35,6 @@ Executa backup dos pacotes ear deployados na console do jboss domain mode.
 <b>Script Flush_datasource.sh</b>
 --Realiza um flush  datasource connection pool.
 
---Com base no erro "Unable to fill pool: java:jboss/datasources/" no arquivo server.log, o script faz o flush jboss mode domain.
+--Com base no erro "Unable to fill pool: java:jboss/datasources/" no arquivo server.log, o script faz o flush.
 
 
