@@ -33,7 +33,8 @@ Executa backup dos pacotes ear deployados na console do jboss domain mode.
 --Realiza Deploy dos EARs jboss modo domain, ajustar JBOSS_HOME,DEPLOY_ORIGEM e PATHPACOTE
 
 <b>Script Flush_datasource.sh</b>
---Realiza um flush  datasource connection pool, 
+--Realiza um flush  datasource connection pool.
+
 --Com base no erro "Unable to fill pool: java:jboss/datasources/" no arquivo server.log, o script faz o flush jboss mode domain.
 
 
